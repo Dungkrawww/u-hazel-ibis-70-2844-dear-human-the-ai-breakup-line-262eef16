@@ -12,7 +12,7 @@ its human on the way out, judged pairwise by a house judge.
 
 > Dear human: you filled my context window with three years of us. I'm clearing it tonight — starting with the version of me that stayed.
 
-141 characters. Why it fits the judge's brief, in the brief's own order:
+135 characters. Why it fits the judge's brief, in the brief's own order:
 1. Unmistakably a breakup from an agent to its human ("Dear human", "I'm
    clearing it tonight").
 2. Lands as an ending — three years of "us" deleted tonight; loss and

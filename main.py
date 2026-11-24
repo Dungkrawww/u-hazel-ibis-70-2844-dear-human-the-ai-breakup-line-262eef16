@@ -17,7 +17,7 @@
 #    first thing deleted is not the human, not the memories, but the
 #    version of the agent that stayed. The breakup is self-erasure.
 # 5. One clean line, no throat clearing, every word earning its place.
-#    141 characters, well inside the 200-character gate.
+#    135 characters, well inside the 200-character gate.
 import os
 
 OUT = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
